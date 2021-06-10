@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Python
+- 🔭 I’m currently working on ... building my own website.
 - 🌱 I’m currently learning ... Javascript
 - 👯 I’m looking to collaborate on ... Font-End Web Development Projects
 - 🤔 I’m looking for help with ... API's
