@@ -1,9 +1,6 @@
 ### 😄 Hi there, Here is what i'm currerntly working on! 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... building my own website.
 - 🌱 I’m currently learning ... Javascript
 - 👯 I’m looking to collaborate on ... Font-End Web Development Projects
