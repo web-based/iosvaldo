@@ -9,4 +9,4 @@
 - 📫 How to reach me: ... [Here on GitHub](https://github.com/iosvaldo)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I am a % of French decent. 
-<img style="width: 250px" src="https://user-images.githubusercontent.com/35927834/121796997-4298df00-cbeb-11eb-9f7b-f865be8938e4.png ">
+<img style="width:50px" src="https://user-images.githubusercontent.com/35927834/121796997-4298df00-cbeb-11eb-9f7b-f865be8938e4.png ">
