@@ -8,7 +8,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Here on GitHub](https://github.com/iosvaldo)
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...I am a % of French decent. 
-- <div style="width:50px">
+- ⚡ Fun fact: ...I am some % of French decent. 
 <img  src="https://user-images.githubusercontent.com/35927834/121796997-4298df00-cbeb-11eb-9f7b-f865be8938e4.png ">
-</div>
+
