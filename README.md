@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... Web Applications.
-- 🌱 I’m currently learning ... Software Engineering. 
+- 🌱 I’m currently learning ... React. 
 - 👯 I’m looking to collaborate on ... Mobile App Projects.
 - 🤔 I’m looking for help with ... Blockchain.
 - 💬 Ask me about ... My Experiences. 
