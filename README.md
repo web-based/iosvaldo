@@ -1,19 +1,18 @@
-# 👋 Hi there, I'm Osvaldo 
+# 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat-square&color=blue" alt="LinkedIn Badge"/><img/> :diamonds: :clubs: :hearts: :spades:
 
-## here is what i'm currerntly working on! 
+## Here is what i'm currerntly working on! 
 
 
-- 🔭 I’m currently working on ... Chat Application.
-- 🌱 I’m currently learning ... Rails: Action Cable 
-- 👯 I’m looking to collaborate on ... Web or Mobile Applications.
-- 🤔 I’m looking for help with ... Blockchain.
-- 💬 Ask me about ... My Experiences. 
-- 📫 How to reach me: ... 
-- 📮 Blog Post ...<a href= "https://www.iosvaldo.com/react-hooks.html">React Hooks </a>
-- ⚡ Fun fact: ...I am a % of French decent. 
+- :hammer_and_wrench: I’m currently working on ... :speech_balloon: Chat Application.
+- :books: I’m currently learning ... Rails: Action Cable 
+- :busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications.
+- :mag: I’m looking for help with ... Blockchain.
+- :microphone: Ask me about ... My Experiences. 
+- :email: How to reach me: ... iosvaldo.com
+- :telescope: Blog Post ...<a href= "https://www.iosvaldo.com/react-hooks.html">React Hooks </a>
+- :jigsaw: Fun fact: ... :skateboard:  I love skateboarding. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//)
-<img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat-square&color=blue" alt="LinkedIn Badge"/><img/>
+
 
  
 ------------------
@@ -22,7 +21,7 @@
 
  
 
-  <h1 align = "center">  :toolbox: Languages and Tools :</h1>  <br />
+  <h1 align = "center">  :toolbox:  Languages and Tools :</h1>  <br />
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
