@@ -44,12 +44,13 @@
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark"/></p>
 
+<p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/></p>
 ------------------
 
 <h1 align = "center">Fun contribution graph</h1>  <br />
 
 
-<p align = "center"><img  src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
+
     
   
 
