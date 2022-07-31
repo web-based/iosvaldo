@@ -38,25 +38,18 @@
 ### 
 
 <h1 align = "center"> :technologist: My Stats :</h1>  <br />
-
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&theme=radical"/></p>
-
 <p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></p>
-
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark"/></p>
-
 <p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/></p>
-------------------
-### 
 
 
-<h1 align = "center">Fun contribution graph</h1>  <br />
+
+<h1 align = "center">contribution graph :</h1>  
+
+<img align = "center" src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
 
-<p align = "center">
-<img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-</p>
-</div>
 
     
   
