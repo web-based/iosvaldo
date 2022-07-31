@@ -36,7 +36,7 @@
 
 ------------------
 ### 
-<div align = "center">
+
 <h1 align = "center"> :technologist: My Stats :</h1>  <br />
 
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&theme=radical"/></p>
@@ -53,7 +53,9 @@
 <h1 align = "center">Fun contribution graph</h1>  <br />
 
 
-<p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /></p>
+<p align = "center">
+<img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+</p>
 </div>
 
     
