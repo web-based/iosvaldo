@@ -9,7 +9,7 @@
 - :mag: I’m looking for help with ... Blockchain.
 - :microphone: Ask me about ... My Experiences. 
 - :email: How to reach me: ... iosvaldo.com
-- :telescope: Blog Post ...<a href= "[https://www.iosvaldo.com/react-hooks.html](http://127.0.0.1:5501/capstone.html)">Chat Application </a>
+- :telescope: Blog Post ...<a href= "https://www.iosvaldo.com/capstone.html">Chat Application </a>
 - :jigsaw: Fun fact: ... :skateboard:  I love skateboarding. 
 
 
