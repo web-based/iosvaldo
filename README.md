@@ -3,7 +3,7 @@
 ## Here is what i'm currerntly working on! 
 
 
-- :hammer_and_wrench: I’m currently working on ... :speech_balloon: Chat Application.
+- :hammer_and_wrench: I’m currently working on ... :speech_balloon: looking for a full-time job as a Software Engineer.
 - :books: I’m currently learning ... Rails: Action Cable 
 - :busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications.
 - :mag: I’m looking for help with ... Blockchain.
