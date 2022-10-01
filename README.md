@@ -1,7 +1,7 @@
-# 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/><img/> <a href="https://discord.gg/JJKjDeGM"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat" alt="Discord"></a> :diamonds: :clubs: :hearts: :spades: 
+# 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/><img/> <a href="https://discord.gg/JJKjDeGM"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat" alt="Discord"></a> 
 
 
-## Here is what i'm currerntly working on! 
+## Here is what i'm currerntly working on! :diamonds: :clubs: :hearts: :spades: 
 
 
 - :hammer_and_wrench: I’m currently working on ... :speech_balloon: My next Career as a Software Engineer.
