@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat-square&color=blue" alt="LinkedIn Badge"/><img/> :diamonds: :clubs: :hearts: :spades:
+# 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/><img/> <a href="https://discord.gg/JJKjDeGM"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat" alt="Discord"></a> :diamonds: :clubs: :hearts: :spades: 
+
 
 ## Here is what i'm currerntly working on! 
 
@@ -11,6 +12,7 @@
 - :email: How to reach me: ... <a href="https://www.iosvaldo.com">Portfolio</a>
 - :telescope: Blog Post ...<a href= "https://www.iosvaldo.com/html/capstone.html">Action Cable</a>
 - :jigsaw: Fun fact: ... :skateboard:  I love skateboarding. 
+
 
 
 
@@ -40,8 +42,9 @@
 ### 
 
 <h1 align = "center"> :technologist: My Stats :</h1>  <br />
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&theme=radical"/></p>
-<p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&theme=highcontrast"/></p>
+
+<p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=Javascript"/></p>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark"/></p>
 <p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/></p>
   
