@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Rails" **alt="C Programming" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C Programming" **alt="C Programming" width="40" height="40"/>
 
 </div>
 
