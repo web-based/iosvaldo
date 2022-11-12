@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/><img/> <a href="https://discord.gg/pR5nybHuD6"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Join the Community &color=36393f&style=flat" alt="Discord"></a> 
+# 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/><img/> <a href="https://discord.gg/pR5nybHuD6"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Join the DevChat Community &color=36393f&style=flat" alt="Discord"></a> 
 
 
 ## Here is what i'm currerntly working on! :diamonds: :clubs: :hearts: :spades: 
