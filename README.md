@@ -5,7 +5,7 @@
 
 
 - :hammer_and_wrench: I’m currently working on ... :speech_balloon: My next Career as a Software Engineer.
-- :books: I’m currently learning ... Rails: Action Cable 
+- :books: I’m currently learning ... Google Firebase
 - :busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications.
 - :mag: I’m looking for help with ... Blockchain.
 - :microphone: Ask me about ... My Experiences. 
