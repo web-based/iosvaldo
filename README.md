@@ -4,14 +4,14 @@
 ## Here is what i'm currerntly working on! :diamonds: :clubs: :hearts: :spades: 
 
 
-- :rocket: I’m currently working on ... Building my own Linkedin Application.
+- :rocket: I’m currently working on ... Building my own Linkedin Application
 - :books: I’m currently learning ... Cloud Development
-- :busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications.
-- :mag: I’m looking for developers in ... Blockchain.
-- :microphone: Ask me about ... My Experiences. 
-- :speech_balloon: Reach me on Discord:  <a href="https://discordapp.com/users/1042614407865323580"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=osvaldo &color=36393f&style=flat" alt="Discord"></a>
-- :telescope: Blog Post ... <a href= "https://www.iosvaldo.com/html/capstone.html">Action Cable</a>
-- :skateboard: Fun fact: ... I love skateboarding. 
+- :busts_in_silhouette: I’m looking to collaborate on ... Any Web or Mobile Applications
+- :mag: I’m looking for developers in ... Blockchain
+- :microphone: Ask me about ... My Experiences
+- :speech_balloon: Reach me on Discord  <a href="https://discordapp.com/users/1042614407865323580"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=osvaldo &color=36393f&style=flat" alt="Discord"></a>
+- :telescope: Blog Post ... <a href= "https://www.iosvaldo.com/html/capstone.html">Ruby on Rails: Action Cable</a>
+- :skateboard: Fun fact ... I love skateboarding
 
 
 
