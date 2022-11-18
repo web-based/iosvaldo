@@ -4,7 +4,7 @@
 ## Here is what i'm currerntly working on! :diamonds: :clubs: :hearts: :spades: 
 
 
-- :rocket: I’m currently working on ... Expanding my Career as a Software Engineer.
+- :rocket: I’m currently working on ... Building my own Linkedin Application.
 - :books: I’m currently learning ... Cloud Development
 - :busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications.
 - :mag: I’m looking for developers in ... Blockchain.
