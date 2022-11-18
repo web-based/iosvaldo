@@ -9,7 +9,7 @@
 - :busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications.
 - :mag: I’m looking for help with ... Blockchain.
 - :microphone: Ask me about ... My Experiences. 
-- :email: How to reach me: ... <a href="https://www.iosvaldo.com">Portfolio</a>
+- :email: How to reach me:  <a href="https://discord.gg/pR5nybHuD6"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord  &color=36393f&style=flat" alt="Discord"></a>
 - :telescope: Blog Post ...<a href= "https://www.iosvaldo.com/html/capstone.html">Action Cable</a>
 - :jigsaw: Fun fact: ... :skateboard:  I love skateboarding. 
 
