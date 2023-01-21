@@ -1,20 +1,16 @@
 # 👋 Hi there, I'm Osvaldo [![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/><img/> <a href="https://discord.gg/pR5nybHuD6"> <a href="https://discordapp.com/users/1042614407865323580"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=osvaldo &color=36393f&style=flat" alt="Discord"></a> <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DevChat Community &color=36393f&style=flat" alt="Discord"></a> 
 
 
-## What I'm currently working on! :diamonds: :clubs: :hearts: :spades: 
+<h2 align = "center">What I'm currently working on! :diamonds: :clubs: :hearts: :spades: </h2>  
 
+<p align = "center">
+:rocket: I’m currently working on ... Building a company web Application
+:man_technologist: I’m currently learning ... Cloud Development/Backend
+:busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications
+:skateboard: Fun fact ... I love skateboarding
+:green_circle: ... Available for freelance work 
+ </p>
 
-- :rocket: I’m currently working on ... Building a company web Application
-- :man_technologist: I’m currently learning ... Cloud Development/Backend
-- :busts_in_silhouette: I’m looking to collaborate on ... Web or Mobile Applications
-- :skateboard: Fun fact ... I love skateboarding
-- :green_circle: ... Available for freelance work 
-<!-- - :mag: I’m looking for developers in ... Blockchain -->
-<!-- - :microphone: Ask me about ... My Experiences -->
-<!-- - :speech_balloon: Reach me on Discord   -->
-<!-- - :telescope: Blog Post ... <a href= "https://www.iosvaldo.com/html/capstone.html">Ruby on Rails: Action Cable</a> -->
- 
-------------------
 
 ### 
 
