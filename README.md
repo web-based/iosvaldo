@@ -1,7 +1,19 @@
-# 👋 Hi there, I'm Osvaldo 
-<p align="center"><a href="https://iosvaldo.github.io"><img width="80%" alt="Hello, I'm Osvaldo. I write code!" src="./assets/readme__header.png" /></a></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iosvaldo//) <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/><img/> <a href="https://discord.gg/pR5nybHuD6"> <a href="https://discordapp.com/users/1042614407865323580"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=osvaldo &color=36393f&style=flat" alt="Discord"></a> <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DevChat Community &color=36393f&style=flat" alt="Discord"></a> 
+<p align="center"><a href="https://iosvaldo.github.io"><img width="100%" alt="Hello, I'm Osvaldo. I write code!" src="./assets/readme-header.png" /></a></p>
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/iosvaldo">
+<img src="https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
+<img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=flat&color=blueviolet" alt="LinkedIn Badge"/>
+<img/> 
+<a href="https://discord.gg/pR5nybHuD6"> 
+<a href="https://discordapp.com/users/1042614407865323580">
+ <img src="https://img.shields.io/static/v1?logo=discord&label=&message=osvaldo &color=36393f&style=flat" alt="Discord">
+</a> 
+ <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DevChat Community &color=36393f&style=flat" alt="Discord">
+</a>
+ </div>
 
 
 <h2 align = "center">What I'm currently working on! :diamonds: :clubs: :hearts: :spades: </h2>  
