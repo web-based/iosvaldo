@@ -37,9 +37,8 @@
 
 
 <h1 align = "center"> :technologist: My Stats :</h1>  <br />
+<p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="500"/></p>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&theme=highcontrast"/></p>
-
 <p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=Javascript"/></p>
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark"/></p>
-<p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/></p>
-  
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&theme=vision-friendly-dark" width="491"/></p>
+
