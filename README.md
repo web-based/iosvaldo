@@ -19,11 +19,11 @@
 <h2 align = "center">What I'm currently working on! :diamonds: :clubs: :hearts: :spades: </h2>  
 
 <p align = "center">
-:rocket: I’m currently working on | Building a company web Application
-:man_technologist: I’m currently learning | Cloud Development/Backend
-:busts_in_silhouette: I’m looking to collaborate on | Web or Mobile Applications
-:skateboard: Fun fact | Love skateboarding
-:green_circle: | Available for freelance work 
+:rocket: I’m currently building a company web Application
+:man_technologist: I'm learning cloud Development/Backend
+:busts_in_silhouette: I'm looking to collaborate on Web or Mobile Applications
+:skateboard: I love skateboarding
+:green_circle:  I'm available for freelance work.
  </p>
 
 
@@ -40,9 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="35" height="35"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" **alt="Rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
@@ -50,7 +50,7 @@
 <h2 align = "center"> Stats :technologist: :</h2>  <br />
 <p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="500"/></p>
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&custom_title=Github__Stats&show_icons=true&bg_color=000&text_color=fff&icon_color=567&title_color=888&hide_border=true"/></p>
-<p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=hacker&hide_border=true&title_color=567"/></p>
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&theme=vision-friendly-dark&text_bold&text_color=fff&title_color=fff&hide_border=true" width="489"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&bg_color=000&text_color=fff&icon_color=567&title_color=888&hide_border=true"/></p>
+<p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=hacker&hide_border=true&&title_color=567"/></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark&text_bold&text_color=fff&title_color=fff&hide_border=true" width="490"/></p>
 
