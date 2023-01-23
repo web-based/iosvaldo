@@ -3,35 +3,37 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/iosvaldo">
-<img src="https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=flat&logo=Linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/-osvaldo&nbsp;-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-<img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&&style=flat&color=orange&label=views" alt="github views"/>
+<img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=for-the-badge&color=orange&" alt="github views"/>
 <img/> 
+ 
 <a href="https://discord.gg/pR5nybHuD6"> 
 <a href="https://discordapp.com/users/1042614407865323580">
- <img src="https://img.shields.io/static/v1?logo=discord&label=&message=osvaldo&color=eddd68&style=flat" alt="Discord">
+ <img src="https://img.shields.io/static/v1?logo=discord&logoColor=white&label=&message=osvaldo&color=ba07eb&style=for-the-badge" alt="Discord">
 </a> 
- <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DevChat Community &color=114034&style=flat" alt="Discord">
+ <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DevChat Community &color=114034&style=for-the-badge" alt="Discord">
 </a>
  </div>
 
 
 <h2 align = "center">What I'm currently working on! :diamonds: :clubs: :hearts: :spades: </h2>  
 
-<p align = "center">
-:rocket: I’m currently building a company web Application
-:man_technologist: I'm learning cloud Development/Backend
-:busts_in_silhouette: I'm looking to collaborate on Web or Mobile Applications
-:skateboard: I love skateboarding
-:green_circle:  I'm available for freelance work.
- </p>
-
+<div  width="80" height="auto" >
+  <p align = "center">
+  I’m currently building a company web Application
+  :man_astronaut: I'm learning cloud Development/Backend
+  :scientist: I'm looking to collaborate on Web or Mobile Applications
+  :skateboard: I love skateboarding
+ :satellite: I'm available for freelance work.
+   </p>
+</div>
 
 ### 
 
  
 
-  <h2 align = "center"> Tools :toolbox: :</h2>  
+  <h2 align = "center"> Tools :electron: :</h2>  
 <div align = "center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -47,10 +49,15 @@
 </div>
 
 
-<h2 align = "center"> Stats :technologist: :</h2>  <br />
+<h2 align = "center"> Stats :dna: :</h2>  <br />
 <p align = "center"><img src="https://github.com/iosvaldo/iosvaldo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="500"/></p>
+
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark&text_bold&text_color=fff&title_color=fff&hide_border=true&hide_title=true" width="490"/></p>
+
 <p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&bg_color=000&text_color=fff&icon_color=567&title_color=888&hide_border=true"/></p>
-<p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=hacker&hide_border=true&&title_color=567"/></p>
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark&text_bold&text_color=fff&title_color=fff&hide_border=true" width="490"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&bg_color=000&text_color=fff&icon_color=97FC70&title_color=97FC70&hide_border=true&hide_title=true"/></p>
+
+<p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=dark&hide_border=true&background=000000&ring=97FC70&currStreakLabel=97FC70&sideNums=97FC70&sideLabels=97FC70&dates=97FC70&fire=EF169DCE&stroke=97FC70&currStreakNum=97FC70"/></p>
+
+
 
