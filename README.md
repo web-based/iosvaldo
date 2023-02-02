@@ -8,10 +8,11 @@
 <img id="badges" src="https://komarev.com/ghpvc/?username=iosvaldo&style=for-the-badge&color=orange&" alt="github views"/>
 <img/> 
  
-<a href="https://discord.gg/pR5nybHuD6"> 
+
 <a href="https://discordapp.com/users/1042614407865323580">
  <img src="https://img.shields.io/static/v1?logo=discord&logoColor=white&label=&message=chat&color=ba07eb&style=for-the-badge" alt="Discord">
 </a> 
+ <a href="https://discord.gg/pR5nybHuD6"> 
  <img src="https://img.shields.io/static/v1?logo=discord&label=&message=DevChat Community &color=114034&style=for-the-badge" alt="Discord">
 </a>
  </div>
