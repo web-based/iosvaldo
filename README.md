@@ -26,7 +26,7 @@
 
 <div align = "center" width="80" height="auto" >
   <p >
-   If your ultimate goal is to create exceptional, high-quality applications that add significant value to end-users, then let's collaborate and work together towards this common aspiration. Together, we can develop innovative solutions that exceed user expectations and enhance their overall experience.:satellite:
+   If you aim to create exceptional, high-quality applications that add significant value to end-users, let's collaborate and work together toward this common aspiration. We can develop innovative solutions that exceed user expectations and enhance their overall experience.:satellite:
    </p>
 </div>
 
@@ -57,8 +57,6 @@
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=iosvaldo&show_icons=true&bg_color=000&text_color=fff&icon_color=97FC70&title_color=97FC70&hide_border=true&hide_title=true"/></p>
 
-<p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosvaldo&layout=compact&theme=vision-friendly-dark&text_bold&text_color=fff&title_color=fff&hide_border=true&hide_title=true&langs_count=8&hide=Jupyter+Notebook,html&exclude_repo=user-input,linked-list&langs_count=Typescript&langs_count=Vue" width="480"/></p>
 
 <p align = "center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iosvaldo&theme=dark&hide_border=true&background=000000&ring=97FC70&currStreakLabel=97FC70&sideNums=97FC70&sideLabels=97FC70&dates=97FC70&fire=EF169DCE&stroke=97FC70&currStreakNum=97FC70"/></p>
 
