@@ -26,7 +26,7 @@
 
 <div align = "center" width="80" height="auto" >
   <p >
-   If you aim to create exceptional, high-quality applications that add significant value to end-users, let's collaborate and work together toward this common aspiration. We can develop innovative solutions that exceed user expectations and enhance their overall experience.:satellite:
+   If you aim to create exceptional, high-quality applications that add significant value to end-users, let's collaborate and work together toward this common aspiration. We can develop innovative solutions that exceed user expectations and enhance their overall experience.
    </p>
 </div>
 
