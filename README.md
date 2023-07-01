@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://iosvaldo.github.io"><img width="100%"alt="Hello, I'm Osvaldo. I write code!" src="./assets/github_readme_hero.jpg" /></a></p>
+<p align="center"><a href="https://iosvaldo.github.io"><img width="100%"alt=" Hi There!" src="./assets/github_readme_hero.png" /></a></p>
 
 <div align="center">
  <a href="https://www.linkedin.com/in/iosvaldo">
